@@ -1,0 +1,384 @@
+[
+    {
+        "text": "What is 20% of 500?",
+        "options": [
+            {
+                "id": "a",
+                "text": "100"
+            },
+            {
+                "id": "b",
+                "text": "50"
+            },
+            {
+                "id": "c",
+                "text": "200"
+            },
+            {
+                "id": "d",
+                "text": "20"
+            }
+        ],
+        "correctAnswer": "a",
+        "difficulty": "easy",
+        "topic": "Percentages",
+        "subject": "Quantitative Aptitude",
+        "tags": [
+            "basic",
+            "percentage"
+        ]
+    },
+    {
+        "text": "If A is 50% more than B, then B is what percent less than A?",
+        "options": [
+            {
+                "id": "a",
+                "text": "50%"
+            },
+            {
+                "id": "b",
+                "text": "33.33%"
+            },
+            {
+                "id": "c",
+                "text": "25%"
+            },
+            {
+                "id": "d",
+                "text": "75%"
+            }
+        ],
+        "correctAnswer": "b",
+        "difficulty": "medium",
+        "topic": "Percentages",
+        "subject": "Quantitative Aptitude",
+        "tags": [
+            "conceptual"
+        ]
+    },
+    {
+        "text": "The price of sugar increases by 20%. By what percent must a family reduce its consumption so that the expenditure remains the same?",
+        "options": [
+            {
+                "id": "a",
+                "text": "20%"
+            },
+            {
+                "id": "b",
+                "text": "16.66%"
+            },
+            {
+                "id": "c",
+                "text": "25%"
+            },
+            {
+                "id": "d",
+                "text": "10%"
+            }
+        ],
+        "correctAnswer": "b",
+        "difficulty": "medium",
+        "topic": "Percentages",
+        "subject": "Quantitative Aptitude"
+    },
+    {
+        "text": "In an election between two candidates, one got 55% of the total valid votes, 20% of the votes were invalid. If the total number of votes was 7500, the number of valid votes that the other candidate got was:",
+        "options": [
+            {
+                "id": "a",
+                "text": "2700"
+            },
+            {
+                "id": "b",
+                "text": "2900"
+            },
+            {
+                "id": "c",
+                "text": "3000"
+            },
+            {
+                "id": "d",
+                "text": "3100"
+            }
+        ],
+        "correctAnswer": "a",
+        "difficulty": "hard",
+        "topic": "Percentages",
+        "subject": "Quantitative Aptitude"
+    },
+    {
+        "text": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+        "options": [
+            {
+                "id": "a",
+                "text": "44%"
+            },
+            {
+                "id": "b",
+                "text": "34%"
+            },
+            {
+                "id": "c",
+                "text": "54%"
+            },
+            {
+                "id": "d",
+                "text": "64%"
+            }
+        ],
+        "correctAnswer": "d",
+        "difficulty": "medium",
+        "topic": "Percentages",
+        "subject": "Quantitative Aptitude"
+    },
+    {
+        "text": "A does a work in 10 days and B does the same work in 15 days. In how many days they together will do the same work?",
+        "options": [
+            {
+                "id": "a",
+                "text": "5 days"
+            },
+            {
+                "id": "b",
+                "text": "6 days"
+            },
+            {
+                "id": "c",
+                "text": "8 days"
+            },
+            {
+                "id": "d",
+                "text": "9 days"
+            }
+        ],
+        "correctAnswer": "b",
+        "difficulty": "easy",
+        "topic": "Time & Work",
+        "subject": "Quantitative Aptitude"
+    },
+    {
+        "text": "A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days, A alone can finish the remaining work?",
+        "options": [
+            {
+                "id": "a",
+                "text": "6"
+            },
+            {
+                "id": "b",
+                "text": "5.5"
+            },
+            {
+                "id": "c",
+                "text": "5"
+            },
+            {
+                "id": "d",
+                "text": "8"
+            }
+        ],
+        "correctAnswer": "a",
+        "difficulty": "medium",
+        "topic": "Time & Work",
+        "subject": "Quantitative Aptitude"
+    },
+    {
+        "text": "A and B can do a piece of work in 30 days, while B and C can do the same work in 24 days and C and A in 20 days. They all work together for 10 days when B and C leave. How many days more will A take to finish the work?",
+        "options": [
+            {
+                "id": "a",
+                "text": "18 days"
+            },
+            {
+                "id": "b",
+                "text": "24 days"
+            },
+            {
+                "id": "c",
+                "text": "30 days"
+            },
+            {
+                "id": "d",
+                "text": "36 days"
+            }
+        ],
+        "correctAnswer": "a",
+        "difficulty": "hard",
+        "topic": "Time & Work",
+        "subject": "Quantitative Aptitude"
+    },
+    {
+        "text": "If 2x + 3y = 12 and 3x - 2y = 5, then y = ?",
+        "options": [
+            {
+                "id": "a",
+                "text": "2"
+            },
+            {
+                "id": "b",
+                "text": "3"
+            },
+            {
+                "id": "c",
+                "text": "-2"
+            },
+            {
+                "id": "d",
+                "text": "1"
+            }
+        ],
+        "correctAnswer": "a",
+        "difficulty": "easy",
+        "topic": "Linear Equations",
+        "subject": "Quantitative Aptitude"
+    },
+    {
+        "text": "The sum of two numbers is 15 and their difference is 3. Find the numbers.",
+        "options": [
+            {
+                "id": "a",
+                "text": "8, 7"
+            },
+            {
+                "id": "b",
+                "text": "9, 6"
+            },
+            {
+                "id": "c",
+                "text": "10, 5"
+            },
+            {
+                "id": "d",
+                "text": "12, 3"
+            }
+        ],
+        "correctAnswer": "b",
+        "difficulty": "easy",
+        "topic": "Linear Equations",
+        "subject": "Quantitative Aptitude"
+    },
+    {
+        "text": "Find the roots of the equation x^2 - 5x + 6 = 0.",
+        "options": [
+            {
+                "id": "a",
+                "text": "2, 3"
+            },
+            {
+                "id": "b",
+                "text": "-2, -3"
+            },
+            {
+                "id": "c",
+                "text": "1, 6"
+            },
+            {
+                "id": "d",
+                "text": "-1, -6"
+            }
+        ],
+        "correctAnswer": "a",
+        "difficulty": "medium",
+        "topic": "Quadratic Equations",
+        "subject": "Quantitative Aptitude"
+    },
+    {
+        "text": "The sum of angles in a triangle is:",
+        "options": [
+            {
+                "id": "a",
+                "text": "90°"
+            },
+            {
+                "id": "b",
+                "text": "180°"
+            },
+            {
+                "id": "c",
+                "text": "360°"
+            },
+            {
+                "id": "d",
+                "text": "270°"
+            }
+        ],
+        "correctAnswer": "b",
+        "difficulty": "easy",
+        "topic": "Triangles",
+        "subject": "Quantitative Aptitude"
+    },
+    {
+        "text": "In a right-angled triangle, if the two legs are 3 and 4, what is the length of the hypotenuse?",
+        "options": [
+            {
+                "id": "a",
+                "text": "5"
+            },
+            {
+                "id": "b",
+                "text": "6"
+            },
+            {
+                "id": "c",
+                "text": "7"
+            },
+            {
+                "id": "d",
+                "text": "8"
+            }
+        ],
+        "correctAnswer": "a",
+        "difficulty": "easy",
+        "topic": "Triangles",
+        "subject": "Quantitative Aptitude"
+    },
+    {
+        "text": "The radius of a circle is 7cm. Find its area (π = 22/7).",
+        "options": [
+            {
+                "id": "a",
+                "text": "44 cm²"
+            },
+            {
+                "id": "b",
+                "text": "154 cm²"
+            },
+            {
+                "id": "c",
+                "text": "144 cm²"
+            },
+            {
+                "id": "d",
+                "text": "100 cm²"
+            }
+        ],
+        "correctAnswer": "b",
+        "difficulty": "medium",
+        "topic": "Circles",
+        "subject": "Quantitative Aptitude"
+    },
+    {
+        "text": "The length of the tangent drawn from a point 10 cm away from the center of a circle of radius 6 cm is:",
+        "options": [
+            {
+                "id": "a",
+                "text": "4 cm"
+            },
+            {
+                "id": "b",
+                "text": "8 cm"
+            },
+            {
+                "id": "c",
+                "text": "12 cm"
+            },
+            {
+                "id": "d",
+                "text": "16 cm"
+            }
+        ],
+        "correctAnswer": "b",
+        "difficulty": "hard",
+        "topic": "Circles",
+        "subject": "Quantitative Aptitude"
+    }
+]
