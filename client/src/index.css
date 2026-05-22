@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #9C4145;
+  --color-primary-hover: #882D31;
+  --color-primary-light: #B05559;
+
+  --color-secondary: #ffffff;
+  --color-secondary-dim: #f3f4f6;
+
+  --color-glass: rgba(255, 255, 255, 0.25);
+  --color-glass-border: rgba(255, 255, 255, 0.2);
+
+  --animate-fade-in: fadeIn 0.5s ease-out;
+  --animate-slide-up: slideUp 0.5s ease-out;
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+
+    100% {
+      opacity: 1;
+    }
+  }
+
+  @keyframes slideUp {
+    0% {
+      transform: translateY(20px);
+      opacity: 0;
+    }
+
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+}
+
+@layer utilities {
+  .glass-card {
+    @apply bg-white/40 backdrop-blur-xl border border-white/50 shadow-2xl;
+  }
+
+  .glass-panel {
+    @apply bg-white/70 backdrop-blur-lg border border-white/60 shadow-lg;
+  }
+
+  .text-shadow {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+}
+
+body {
+  @apply bg-gray-50 text-gray-900;
+  background-image: radial-gradient(rgba(156, 65, 69, 0.1) 1px, transparent 1px);
+  background-size: 24px 24px;
+  font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+}
